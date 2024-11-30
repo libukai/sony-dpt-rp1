@@ -47,7 +47,7 @@ SONY DPT-RP1 的破解主要是为了解决它的一些限制，比如说它只�
 
 终于进入到了最重要的环节，接下去我们要根据不同的场景，选择最适合的阅读软件。
 
-- [静读天下](https://ink.qq.com/)：比微信读书更适合看 ePub 格式的书籍，还支持简繁转换及快捷查词
+- [静读天下](https://www.moondownload.com/chinese.html)：比微信读书更适合看 ePub 格式的书籍，还支持简繁转换及快捷查词
 - [KOReader](https://koreader.rocks/)：适合看 PDF 格式的书籍，比如说专业类的书籍、技术类的书籍
 - [Legado](https://github.com/gedoor/legado)：适合看来追网文，可以使用各种书源，在电子书上无比爽快的看网文
 - [Perfect Viewer](https://perfect-viewer.en.uptodown.com/android)：适合看漫画，持续多种格式，以及丰富的自定义排版选项
@@ -73,4 +73,4 @@ SONY DPT-RP1 的破解主要是为了解决它的一些限制，比如说它只�
 
 最终，以呈现的阅读效果如下图，终于可以舒舒服服的看书了。
 
-![](../media/20241130170928.png)
+![](./Moonreader.png)
